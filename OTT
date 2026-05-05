@@ -1,0 +1,6 @@
+{
+  "version": "1.0.2",
+  "server_url": "https://example.com/api",
+  "status": "aktif",
+  "update_url": "https://github.com/sukete03/KNAPP/raw/refs/heads/main/update.apk"
+}
